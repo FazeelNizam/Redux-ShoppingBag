@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Redux-ShoppingBag/static/css/main.a1407077.css",
+    "main.js": "/Redux-ShoppingBag/static/js/main.943c2c28.js",
+    "static/media/S23Ultra.png": "/Redux-ShoppingBag/static/media/S23Ultra.c751e2131b5f0c491bbe.png",
+    "static/media/14ProMax.jpg": "/Redux-ShoppingBag/static/media/14ProMax.f1c2d26605b067561b33.jpg",
+    "static/media/Pixel7Pro.jpg": "/Redux-ShoppingBag/static/media/Pixel7Pro.8256e795d3a9ec30457a.jpg",
+    "static/media/Xiaomi13Ultra.jpg": "/Redux-ShoppingBag/static/media/Xiaomi13Ultra.a3eddd701de9f8d01a74.jpg",
+    "index.html": "/Redux-ShoppingBag/index.html",
+    "main.a1407077.css.map": "/Redux-ShoppingBag/static/css/main.a1407077.css.map",
+    "main.943c2c28.js.map": "/Redux-ShoppingBag/static/js/main.943c2c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1407077.css",
+    "static/js/main.943c2c28.js"
+  ]
+}
