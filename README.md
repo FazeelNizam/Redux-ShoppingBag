@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Redux Starter Project
+
+This is a simple shopping cart application build using React & Redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
