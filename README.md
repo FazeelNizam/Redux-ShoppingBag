@@ -2,7 +2,7 @@
 
 This is a simple shopping cart application build using React & Redux.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To preview app [Click Here](https://fazeelnizam.github.io/Redux-ShoppingBag/).
 
 ## Available Scripts
 
